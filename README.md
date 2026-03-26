@@ -4,7 +4,9 @@
 
 This project is a feature-rich e-commerce platform designed to provide a seamless shopping experience for users while offering comprehensive management tools for administrators. It caters to both casual visitors and registered users, with functionalities tailored to enhance usability and efficiency.
 
-[Watch the video on Google Drive](https://drive.google.com/drive/folders/1HhdkyhEhhW5VfZw6Zq1lnmbKzPDOkY3s?usp=sharing)
+[Watch the Demo on Google Drive](https://drive.google.com/file/d/1N3uQ0RvT4CB8_M5jMOxx9Uu0sfH3DyBt/view?usp=sharing)
+
+[Backend Code](https://github.com/esraarabee1/Click-Market-NodeJs)
 
 ## Features
 
